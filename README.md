@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/amanuel15/landing_page_challenge_loopstudio.git)
-- Live Site URL: [Add live site URL here](https://amandesign-loopstudio-landing-page.netlify.app)
+- Solution URL: [here](https://github.com/amanuel15/landing_page_challenge_loopstudio.git)
+- Live Site URL: [here](https://amandesign-loopstudio-landing-page.netlify.app)
 
 ## My process
 
